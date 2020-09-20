@@ -1,5 +1,3 @@
-![SkynetHost Bot](https://i.imgur.com/Fn1crdl.png "SkynetHost")
-
 # SkynetHost Discord Bot
 Open source for the community.
 
