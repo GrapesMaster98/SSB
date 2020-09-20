@@ -1,4 +1,4 @@
-![SkynetHost Bot](https://skynethost.net/assets/Untitled-2.png "SkynetHost")
+![SkynetHost Bot](https://imgur.com/Fn1crdl "SkynetHost")
 
 # SkynetHost Discord Bot
 Open source for the community.
