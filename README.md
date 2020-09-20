@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/GrapesMaster98/SSB)](https://repl.it/github/GrapesMaster98/SSB)
 # SkynetHost Discord Bot
 Open source for the community.
 
